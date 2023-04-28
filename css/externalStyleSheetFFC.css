@@ -1,0 +1,222 @@
+body {
+	color:black;
+	font-family:Times New Roman, Arial, serif;
+	font-size: 12pt;
+	background-color:#65A6EC;
+	color:FFD60A;
+	}
+
+
+
+h1 {
+	background-color:#07488F;
+	color:FFD60A;
+	text-align:center;
+	font-size: 30pt;
+	font-weight: 1000;
+	font-style:normal;
+	
+	
+	}
+
+
+	p {
+		text-align:center;
+		border: solid 10px black;
+		padding: 35px;
+		margin: 2px;
+		
+		border-style: double;
+		border-width: 15px;
+		border-bottom-color: #07488F;
+		border-left-color: #07488F;
+		border-top-color:#07488F;
+		border-right-color:#07488F;
+		border-radius: 100px;
+		box-shadow: 10px 10px 20px black;
+		border-bottom-width:10;
+		border-left-width:20;
+		border-top-width:10;
+		border-right-width:20;
+		
+		
+	}
+	
+	
+	
+	table {
+		text-align:center;
+		border: solid 10px black;
+		padding: 35px;
+		margin: 2px;
+		
+		border-style: double;
+		border-width: 15px;
+		border-bottom-color: #07488F;
+		border-left-color: #07488F;
+		border-top-color:#07488F;
+		border-right-color:#07488F;
+		border-radius: 100px;
+		box-shadow: 10px 10px 20px black;
+		border-bottom-width:10;
+		border-left-width:20;
+		border-top-width:10;
+		border-right-width:20;
+		
+		
+	}
+	
+	
+	
+	ul {
+		display: inline-block;
+		border: solid 10px black;
+		padding: 17px;
+		padding-bottom:;
+		margin: 2px;
+		border-style: groove;
+		border-width:5px;
+		border-color:#5b9bd5;
+		border-bottom-color:#5b9bd5;
+		border-left-color:#5b9bd5;
+		border-top-color#5b9bd5:;
+		border-right-color:#5b9bd5;
+		border-radius:40px;
+		text-align:center; 
+		/*list-style: none*/
+	
+		}
+		
+
+	footer{
+
+		background-color:07488F;
+		color:FFD60A;
+
+
+
+
+		}
+
+
+
+
+	footer a{
+		
+		color:FFD60A;
+		text-decoration:none;
+
+
+
+
+		}
+
+
+
+
+
+	nav{
+
+		background-color:07488F;
+		color:FFD60A;
+
+
+
+
+		}
+
+
+
+
+	nav a{
+		
+		color:FFD60A;
+		text-decoration:none;
+		padding:25;
+		font-size:20;
+		letter-spacing:2;
+
+
+
+		}
+		
+	form{
+		
+		text-align:center;
+		
+		
+	}
+	
+	
+	
+	input{
+		
+		text-align:left;
+		
+	}
+		
+	.container1{
+		margin-left:auto;
+		margin-right:auto;
+		
+    
+				}
+	.container2{
+		display:flex;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	.container3{
+		margin-left:auto;
+		margin-right:auto;
+	
+				}
+	.container4{
+		display:flex;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	.container5{
+		margin-left:auto;
+		margin-right:auto;
+		
+	
+				}
+	.container6{
+		display:flex;
+		margin-left:auto;
+		margin-right:auto;
+	}
+				}
+	.container7{
+		margin-left:auto;
+		margin-right:auto;
+		
+	}
+	
+	.container8{
+		display:flex;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	.containerF{
+		text-align:center;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	
+	
+	.img{
+		display:flex;
+		margin-left:auto;
+		margin-right:auto;
+		
+	}
+	
+	/* < start         end>*/
+	
+	/* box shadow 1st number is X-Axis */
+	/* box shadow 2nd number is Y-Axis */
+	/* box shadow 3rd number is shadow density */
+	/* x,y */
